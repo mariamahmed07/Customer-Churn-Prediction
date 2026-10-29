@@ -1,0 +1,11 @@
+Feature,Importance
+numerical__TotalCharges,0.14446072457154174
+numerical__tenure,0.12935883286388658
+numerical__MonthlyCharges,0.12416101527967358
+categorical__Contract_Month-to-month,0.06990022415144312
+categorical__OnlineSecurity_No,0.03656000740275809
+categorical__Contract_Two year,0.0347962602366346
+categorical__PaymentMethod_Electronic check,0.03093048492158075
+categorical__TechSupport_No,0.030559481438248985
+categorical__InternetService_Fiber optic,0.02447056739216986
+categorical__OnlineBackup_No,0.017479283488754833
